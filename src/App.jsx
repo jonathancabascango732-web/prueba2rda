@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import './App.css'
 import Encabezado from './components/encabezado.jsx'
 import Pie from './components/pie.jsx'
